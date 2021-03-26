@@ -29,4 +29,8 @@
 
 <p> &nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ardinur03&show_icons=true&locale=en&theme=tokyonight" alt = "ardinur03" /> </p>
 
+<p> &nbsp; <img align = "center" src = "https://activity-graph.herokuapp.com/graph?username=ardinur03&theme=tokyonight" alt = "ardinur03" /> </p>
+
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=ardinur03&&theme=tokyonight" alt = "ardinur03" /> </p>
+
+<p> <img align = "center" src = "https://gpvc.arturio.dev/ardinur03" alt = "ardinur03" /> </p>
