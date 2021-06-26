@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ardinurinsan03@gmail.com**
 
-- ⚡ Fun fact **Good Boy**                        
+- ⚡ Fun fact **I think i'm cool**                        
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
