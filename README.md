@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Project UJIKOM](https://github.com/ardinur03/PrakerinKuy)
 
-- 🌱 I’m currently learning **Ruby on Rails, LARAVEL 8, LARAVEL-LIVEWIRE, BOOTSTRAP 4**
+- 🌱 I’m currently learning **RUBY ON RAILS, LARAVEL 8, LARAVEL-LIVEWIRE, BOOTSTRAP 4**
 
 - 👨‍💻 All of my projects are available at [www.ardinur.space](https://ardinur.space)
 
