@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Muhamad Ardi Nur Insan</h1>
 <h3 align="center">I'm Student vocational high school</h3>
 
-- 🔭 I’m currently working on [Project UJIKOM](https://github.com/ardinur03/PrakerinKuy)
+- 🔭 I’m currently working on **Project Ecommerce**
 
-- 🌱 I’m currently learning **RUBY ON RAILS, LARAVEL 8, LARAVEL-LIVEWIRE, BOOTSTRAP 4**
+- 🌱 I’m currently learning **LARAVEL, LARAVEL-JETSTREAM, LARAVEL-LIVEWIRE, BOOTSTRAP**
 
 - 👨‍💻 All of my projects are available at [www.ardinur.space](https://ardinur.space)
 
