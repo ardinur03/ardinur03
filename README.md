@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Muhamad Ardi Nur Insan</h1>
-<h3 align="center">I'm Student vocational high school</h3>
+<h3 align="center">I'm student of Bandung State Polytechnic</h3>
 
 - 🔭 I’m currently working on **Project Ecommerce**
 
