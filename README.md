@@ -1,6 +1,6 @@
 ## Hi there, I'm [Ardi](https://ardinur.engineer)! 👋
 
-- 🔭 I’m currently working on **I'm currently studying at Bandung State Polytechnic** 
+- 🔭 I’m currently **studying at Bandung State Polytechnic** 
 - 🌱 I’m currently learning **Vanilla JavaScript, Node Js, & Web Deployment.**
 - 👨‍💻 My Website Portofolio available at [ardinur.engineer](https://ardinur.engineer)
 - 💬 Ask me about **Laravel, PHP.**
