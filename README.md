@@ -3,7 +3,7 @@
 - 🔭 I’m currently **studying at Bandung State Polytechnic** 
 - 🌱 I’m currently learning **Github Actions, & Devops.**
 - 👨‍💻 My Website Portofolio available at [ardinur.engineer](https://ardinur.engineer)
-- 💬 Ask me about **Laravel, PHP (Laravel preferrable).**
+- 💬 Ask me about **PHP, Laravel and JavaScript (Laravel preferrable).**
 - 📫 How to reach me **ardinurinsan03@gmail.com**
 - ⚡ Fun fact **I think I'm cool**    
 - 😄 Pronouns: **he/him.**
