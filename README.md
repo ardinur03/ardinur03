@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Github Actions, & Devops.**
 - 👨‍💻 My Website Portofolio available at [ardinur.engineer](https://ardinur.engineer)
 - 💬 Ask me about **PHP, Laravel and JavaScript (Laravel preferrable).**
-- 📫 How to reach me **info@ardinur.tech**
+- 📫 How to reach me **codewithardi@gmail.com**
 - ⚡ Fun fact **I think I'm cool**    
 - 😄 Pronouns: **he/him.**
 
