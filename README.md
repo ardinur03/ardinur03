@@ -1,7 +1,7 @@
 ## Hi there, I'm [Ardi](https://ardinur.engineer)! 👋
 
 - 🔭 I’m currently **studying at Bandung State Polytechnic** 
-- 🌱 I’m currently learning **Github Actions, & Devops.**
+- 🌱 I’m currently learning **Github Actions CI/CD, & Devops.**
 - 👨‍💻 My Website Portofolio available at [ardinur.engineer](https://ardinur.engineer)
 - 💬 Ask me about **PHP, Laravel and JavaScript (Laravel preferrable).**
 - 📫 How to reach me **codewithardi@gmail.com**
