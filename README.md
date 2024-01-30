@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently **studying at Bandung State Polytechnic** 
 - 🌱 I’m currently learning **Github Actions CI/CD, & Devops.**
-- 👨‍💻 My Website Portofolio available at [ardinur.tech](https://ardinur.tech)
+- 👨‍💻 My Website Portofolio available at [ardi.blue](https://ardi.blue)
 - 💬 Ask me about **PHP, Laravel and JavaScript (Laravel preferrable).**
 - 📫 How to reach me **codewithardi@gmail.com**
 - ⚡ Fun fact **I think I'm cool**    
@@ -19,6 +19,3 @@
 
 <p><img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ardinur03&show_icons=true&locale=en&theme=tokyonight" alt = "ardinur03" /> </p>
 
-<p><img align = "center" src = "https://activity-graph.herokuapp.com/graph?username=ardinur03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt = "ardinur03" /> </p>
-
-<p> <img align = "center" src = "https://gpvc.arturio.dev/ardinur03" alt = "ardinur03" /> </p>
